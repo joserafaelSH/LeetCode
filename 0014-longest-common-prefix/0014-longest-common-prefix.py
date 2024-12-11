@@ -6,14 +6,9 @@ class Solution:
                 short = v 
                 strs = strs[0:i] + strs[i+1:]
         
-        print(short)
-        print(strs)
-
         for i in strs: 
-        
             k = 0
-            while k < len(short):
-                print(i, short)
+            while i != short and k < len(short):
                 if i[k] != short[k]:
                     short = short[0:k]
                     if not short:
