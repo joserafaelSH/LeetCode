@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/joserafaelSH/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/joserafaelSH/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/joserafaelSH/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/joserafaelSH/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/joserafaelSH/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/joserafaelSH/LeetCode/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/joserafaelSH/LeetCode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/joserafaelSH/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/joserafaelSH/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/joserafaelSH/LeetCode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/joserafaelSH/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/joserafaelSH/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/joserafaelSH/LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/joserafaelSH/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/joserafaelSH/LeetCode/tree/master/0283-move-zeroes) |
 ## String Matching
 |  |
