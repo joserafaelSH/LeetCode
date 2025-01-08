@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/joserafaelSH/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/joserafaelSH/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/joserafaelSH/LeetCode/tree/master/0283-move-zeroes) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/joserafaelSH/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/joserafaelSH/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/joserafaelSH/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/joserafaelSH/LeetCode/tree/master/0189-rotate-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/joserafaelSH/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## String
 |  |
 | ------- |
