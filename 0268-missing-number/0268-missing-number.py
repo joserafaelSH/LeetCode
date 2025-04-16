@@ -1,17 +1,19 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
-        n = len(nums)
-        if n == 1:
-            if nums[0] != 0: return 0 
-            else: return n
-         
+        n = len(nums) # [0 ... n]
         
+        # Memory is O(1) constant space using the nums
+        # O(n)
+        def targetExists(nums, target):
+            for k in nums:
+                if k == target:
+                    return True
+            return False
 
-        nums.sort() # O(n log(n))
-        if nums[0] != 0: return 0
-        print(nums)
-        for i in range(1, len(nums)): #(O(n))
-            if nums[i-1] + 1 != nums[i]:
-                return nums[i-1] + 1
+        # O(n) * O(n) -> (n^2)
+        for i in range(n-1, -1, -1):
+            response = targetExists(nums, i)
+            if response == False:
+                return i
 
         return n
