@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/joserafaelSH/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/joserafaelSH/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/joserafaelSH/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/joserafaelSH/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/joserafaelSH/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/joserafaelSH/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/joserafaelSH/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -27,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/joserafaelSH/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/joserafaelSH/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/joserafaelSH/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/joserafaelSH/LeetCode/tree/master/0268-missing-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/joserafaelSH/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/joserafaelSH/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/joserafaelSH/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/joserafaelSH/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/joserafaelSH/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/joserafaelSH/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/joserafaelSH/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/joserafaelSH/LeetCode/tree/master/0268-missing-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/joserafaelSH/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## String
 |  |
@@ -80,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/joserafaelSH/LeetCode/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/joserafaelSH/LeetCode/tree/master/0268-missing-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/joserafaelSH/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Simulation
 |  |
@@ -108,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/joserafaelSH/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/joserafaelSH/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/joserafaelSH/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
