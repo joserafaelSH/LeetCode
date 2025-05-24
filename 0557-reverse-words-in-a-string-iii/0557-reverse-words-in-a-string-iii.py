@@ -8,7 +8,7 @@ class Solution:
         inputSize = len(s)
         s = list(s)
         backup = 0
-        while left < inputSize or right < inputSize : 
+        while right < inputSize : 
             # find world
             while right < inputSize:
                 if s[right] == whitespace:
