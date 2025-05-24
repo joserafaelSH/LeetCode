@@ -19,7 +19,7 @@ class Solution:
             backup = right
             right-=1
             # reverse current word
-            while left <= right-1:
+            while left <= right:
                 s[left], s[right] = s[right], s[left]
                 left+=1
                 right-=1 
